@@ -1,6 +1,6 @@
-I'm trying to improve my skills as Frontend Developer by trying to clone a Figma UI/UX design in code. This was my second project and im pretty happy with the results. Still have a lot to improve and learn but step by step im growing as Front Developer and that's making me so happy!
+I'm trying to improve my skills as Frontend Developer by trying to clone a Figma UI/UX design in code. This was my second project and im pretty happy with the results.  Still have a lot to improve and learn but step by step im growing as Front Developer and that's making me so happy!
 
-This project is completely responsive for all devices.
+This project was made only with React and CSS3 + Flex + Grid. I used BEM methodology for CSS and its completely responsive for all devices.
 
 I leave you the results in the next screenshots! Hope that you like it :)
 
