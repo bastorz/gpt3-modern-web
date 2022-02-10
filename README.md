@@ -2,7 +2,7 @@ I'm trying to improve my skills as Frontend Developer by trying to clone a Figma
 
 I leave you the results in the next screenshots! Hope that you like it :)
 
-Im also gonna leave here a direct link to an other project which is similar to this one but focusing at restaurant web service: 
+Im also gonna leave here a direct link to another project which is similar to this one but focusing at restaurant web service: 
 
 https://github.com/bastorz/restaurant-project
 
